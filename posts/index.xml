@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ZangKiEz</title>
-    <link>https://zangkiez.github.io/public/</link>
-    <description>Recent content on ZangKiEz</description>
+    <title>Posts on ZangKiEz</title>
+    <link>https://zangkiez.github.io/public/posts/</link>
+    <description>Recent content in Posts on ZangKiEz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Dec 2020 01:56:07 +0700</lastBuildDate><atom:link href="https://zangkiez.github.io/public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Dec 2020 01:56:07 +0700</lastBuildDate><atom:link href="https://zangkiez.github.io/public/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Title_of_the_post</title>
       <link>https://zangkiez.github.io/public/posts/title_of_the_post/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://zangkiez.github.io/public/posts/title_of_the_post/</guid>
       <description>สวัสดี ชาวโลกเรามาอย่างเป็นมิตร เรามาทดสอบภาษาไทย เอาแล้ว</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://zangkiez.github.io/public/about/</link>
-      <pubDate>Tue, 08 Dec 2020 01:06:25 +0700</pubDate>
-      
-      <guid>https://zangkiez.github.io/public/about/</guid>
-      <description>สวัสดี ชาวโลก เรามาทดสอบภาษาไทย เอาแล้ว</description>
     </item>
     
   </channel>
