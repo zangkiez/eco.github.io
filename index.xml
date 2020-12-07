@@ -9,22 +9,13 @@
     <lastBuildDate>Tue, 08 Dec 2020 02:31:25 +0700</lastBuildDate><atom:link href="https://zangkiez.github.io/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Add Google Font to Hugo</title>
-      <link>https://zangkiez.github.io/public/posts/how-to-add-google-font-to-hugo/</link>
+      <link>https://zangkiez.github.io/public/posts/how_to_add_google_font_to_hugo/</link>
       <pubDate>Tue, 08 Dec 2020 02:31:25 +0700</pubDate>
       
-      <guid>https://zangkiez.github.io/public/posts/how-to-add-google-font-to-hugo/</guid>
+      <guid>https://zangkiez.github.io/public/posts/how_to_add_google_font_to_hugo/</guid>
       <description>วิธีทำ Google Font ใน Hugo ใส่ลงไป 3 FIle
 https://gist.github.com/zangkiez/17720779637acaea27b1279369b68d3b
 ได้เลย</description>
-    </item>
-    
-    <item>
-      <title>Title_of_the_post</title>
-      <link>https://zangkiez.github.io/public/posts/title_of_the_post/</link>
-      <pubDate>Tue, 08 Dec 2020 01:56:07 +0700</pubDate>
-      
-      <guid>https://zangkiez.github.io/public/posts/title_of_the_post/</guid>
-      <description>สวัสดี ชาวโลกเรามาอย่างเป็นมิตร เรามาทดสอบภาษาไทย เอาแล้ว</description>
     </item>
     
     <item>
@@ -33,7 +24,7 @@ https://gist.github.com/zangkiez/17720779637acaea27b1279369b68d3b
       <pubDate>Tue, 08 Dec 2020 01:06:25 +0700</pubDate>
       
       <guid>https://zangkiez.github.io/public/about/</guid>
-      <description>สวัสดี ชาวโลก เรามาทดสอบภาษาไทย เอาแล้ว</description>
+      <description>บล๊อกส่วนตัว มั่วๆ ซั่วๆ อยากจัดไรก็จัด</description>
     </item>
     
   </channel>

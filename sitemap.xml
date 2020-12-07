@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zangkiez.github.io/public/posts/how-to-add-google-font-to-hugo/</loc>
+    <loc>https://zangkiez.github.io/public/posts/how_to_add_google_font_to_hugo/</loc>
     <lastmod>2020-12-08T02:31:25+07:00</lastmod>
   </url>
   
@@ -15,11 +15,6 @@
   <url>
     <loc>https://zangkiez.github.io/public/</loc>
     <lastmod>2020-12-08T02:31:25+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zangkiez.github.io/public/posts/title_of_the_post/</loc>
-    <lastmod>2020-12-08T01:56:07+07:00</lastmod>
   </url>
   
   <url>
